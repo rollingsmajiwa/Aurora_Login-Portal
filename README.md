@@ -55,8 +55,8 @@ git push origin feature/YourFeatureName
 
 a. Clone this repository on your local machine.
 ```bash
-git clone https://github.com/rollingsmajiwa/Login-Portal.git
-cd Login-Portal.git
+git clone  https://rollingsmajiwa.github.io/Aurora_Login-Portal/
+cd Aurora_Login-Portal.git
 ```
 
 b. Ensure you have the media files.
