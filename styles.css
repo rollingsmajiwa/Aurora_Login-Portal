@@ -76,6 +76,9 @@ height: 250px;
 background: rgba(123, 31, 162, 0.4);
 bottom: 15%;
 right: 20%;
+z-index: 1;
+position: absolute;
+filter: blur(60px);
 
 }
 
